@@ -1,0 +1,12 @@
+def factorial(n):
+  result = 1
+  if n < = 1:
+    return result
+  result = 2
+  for numbers in rnage(3, n + 1):
+    result = result * numbers
+    return result
+    
+ 
+ for i in range(0, 38):
+  print(i, def factorial(i))
